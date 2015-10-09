@@ -3,7 +3,7 @@ UW-Course-Notes
 
 some lecture notes from the University of Waterloo.
 
-- AMATH 231: Calculus 4 (http://stdako.com/AMATH231CourseNotes)
+- AMATH 231: Calculus 4 (http://saintdako.com/AMATH231CourseNotes)
 - AMATH 242: Introduction to Computational Mathematics
 - AMATH 351: Ordinary Differential Equations 2
 - AMATH 353: Partial Differential Equations 1
